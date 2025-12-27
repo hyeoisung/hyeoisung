@@ -1,4 +1,4 @@
-<a href="https://github.com/hu1won"><img align="center" src="https://github-readme-stats-hyeoisung3364-hop6vyyz.apn.leapcell.dev/api/top-langs/?username=hu1won&layout=compact&theme=buefy&hide=html,css,javascript&hide_border=true" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoisung&size_weight=0.5&count_weight=0.5)
 
 ### Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
